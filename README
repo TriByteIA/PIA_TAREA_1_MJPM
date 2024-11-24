@@ -1,4 +1,4 @@
 #En esta práctica, he creado una cuenta en Github, agregando un nuevo repositorio llamado PIA_TAREA_1_MJPM, 
-#en el cual he generado un archivo sencille "README" usando Python para mostrar "Hola Mundo".
+#en el cual he generado un archivo sencillo "README" usando Python para mostrar "Hola Mundo".
 
 print("Hola Mundo")
